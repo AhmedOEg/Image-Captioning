@@ -79,9 +79,6 @@ This lab was more than just an assignment—it was my hands-on entry into multim
 
 Upload/replace your image in the script path and see the generated caption.
 
-🖼️ Example Output
-![Image Captioning Output](caption_streaming_output.PNG)
-
 🔮 Future Improvements
 
 1. Add multilingual caption support for global audiences.
