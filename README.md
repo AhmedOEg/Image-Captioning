@@ -1,4 +1,5 @@
 Image Captioning App
+
 📌 Overview
 
 This project demonstrates how to build an AI-powered Image Captioning application that generates meaningful textual descriptions for images. It uses state-of-the-art vision-language models to bridge the gap between visual and textual data, making images more accessible, searchable, and engaging.
